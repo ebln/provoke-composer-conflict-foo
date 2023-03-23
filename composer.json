@@ -1,0 +1,9 @@
+{
+    "name": "ebln/provoke-composer-conflict-foo",
+    "description": "Cannot be installed together with ebln/provoke-composer-conflict-bar",
+    "type": "library",
+    "require": {},
+    "conflict": {
+        "ebln/provoke-composer-conflict-bar": "*"
+    }
+}
