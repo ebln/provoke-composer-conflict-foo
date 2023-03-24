@@ -5,10 +5,10 @@
     "require": {},
     "conflict": {
         "ebln/provoke-composer-conflict-bar": "*"
-    }
+    },
     "autoload": {
         "psr-4": {
             "Ebln\\Composer\\Debug\\ProvokeConflict\\": "src/"
         }
-    },
+    }
 }
